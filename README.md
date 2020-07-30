@@ -48,9 +48,13 @@
 
 ---
 
-### :newspaper: Active Blog Posts Feed
+### :newspaper: Active Blog Posts Feed (using Github Actions)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+### :movie_camera: Active YouTube Videos (using Github Actions)
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 <br />
 <br />
