@@ -53,9 +53,6 @@
 
 ---
 
-<br />
-<br />
-
 ### :newspaper: Active Blog Posts Feed (using Github Actions)
 <!-- BLOG-POST-LIST:START -->
 - [Add Some Magic to Your README](https://medium.com/dev-genius/add-some-magic-to-your-readme-d7f9a4d8622c?source=rss-530346ce5389------2)
