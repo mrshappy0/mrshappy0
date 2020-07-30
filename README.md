@@ -33,7 +33,7 @@
 </tbody>
 </table> -->
 
-| [Portfolio][website] [Portfolio][website] | ![ytIcon] | [LinkedIn][linkedin]  |
+| [Portfolio][website] [Portfolio][website] | ![](ytIcon) | [LinkedIn][linkedin]  |
 |---|---|---|
 
 ### [Portfolio][website][<img align="left" alt="Adam-Shappy.com" width="22px" src="https://i.imgur.com/ufrMfdB.jpg" />][website] :point_left: ✌
