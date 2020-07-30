@@ -1,6 +1,5 @@
-### Hi! I'm Adam Shappy. Check out my [Portfolio][website]! :point_left: ✌
-
 ## I'm a Developer, Climber, Mountain Biker, and all around adventurer!
+### Check out my [Portfolio][website] :point_left: ✌
 <img align="center" alt="mrshappy0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrshappy0&show_icons=true&hide_border=true" />
 
 
