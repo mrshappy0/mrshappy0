@@ -23,7 +23,7 @@
 <a href="#"><img align="left" alt="postman" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postman.svg" /></a>
 <br />
 
-| [Portfolio <img align="left" alt="Adam-Shappy.com" width="22px" src="https://i.imgur.com/ufrMfdB.jpg" />][website] [Portfolio][website] | [Youtube][youtube]  | [LinkedIn][linkedin]  |
+| [<img align="left" alt="Adam-Shappy.com" width="22px" src="https://i.imgur.com/ufrMfdB.jpg" /> Portfolio][website] [Portfolio][website] | [<img align="left" alt="AS-Youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> Youtube][youtube]  | [<img align="left" alt="AS-LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn][linkedin]  |
 |---|---|---|
 
 ### [Portfolio][website][<img align="left" alt="Adam-Shappy.com" width="22px" src="https://i.imgur.com/ufrMfdB.jpg" />][website] :point_left: ✌
