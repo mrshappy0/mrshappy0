@@ -1,6 +1,7 @@
 ### Hi! I'm Adam Shappy. Check out my [Portfolio][website]! :point_left: ✌
 
 ## I'm a Developer, Climber, Mountain Biker, and all around adventurer!
+<img align="right" alt="mrshappy0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrshappy0&show_icons=true&hide_border=true" />
 
 
 ### Currently I am working on the following:
@@ -11,7 +12,6 @@
 - :checkered_flag: 2020 Goals: Join exciting new development teams.
 - :bike: Fun fact: I love racing Mountain Bikes.
 
-<img align="right" alt="mrshappy0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrshappy0&show_icons=true&hide_border=true" />
 
 
 <!-- ### Let's Connect!
