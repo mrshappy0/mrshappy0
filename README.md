@@ -33,7 +33,7 @@
 </tbody>
 </table> -->
 
-| [Portfolio][website] [Portfolio][website] | ![](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg) | [LinkedIn][linkedin]  |
+| [Portfolio][website] [Portfolio][website] | ![ytIcon] | [LinkedIn][linkedin]  |
 |---|---|---|
 
 ### [Portfolio][website][<img align="left" alt="Adam-Shappy.com" width="22px" src="https://i.imgur.com/ufrMfdB.jpg" />][website] :point_left: ✌
@@ -80,3 +80,6 @@
 [linkedin]: https://www.linkedin.com/in/adam-shappy/
 [blog]: https://medium.com/@adam_shappy
 [youtube]: https://www.youtube.com/channel/UCLGqKhUQxbfv1reJTQEtkuQ?view_as=subscriber
+
+<!-- url for images -->
+[ytIcon]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg
