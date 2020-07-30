@@ -43,9 +43,14 @@
 <a href="#"><img align="left" alt="postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postman.svg" /></a>
 <a href="#"><img align="left" alt="slack" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/slack.svg" /></a>
 
+<br />
+<br />
 
-<br />
-<br />
+---
+
+### :newspaper: Active Blog Posts Feed
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br />
 <br />
