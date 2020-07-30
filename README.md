@@ -57,9 +57,15 @@
 - [My Path To Coding](https://medium.com/@adam_shappy/my-path-to-coding-2445509a8b02?source=rss-530346ce5389------2)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 ### :movie_camera: Active YouTube Videos (using Github Actions)
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+---
+
+<img align="left" alt="mrshappy0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrshappy0&show_icons=true&hide_border=true" />
 
 <br />
 <br />
