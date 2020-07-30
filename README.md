@@ -23,9 +23,7 @@
 <a href="#"><img align="left" alt="postman" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postman.svg" /></a>
 <br />
 
-### [Portfolio][website][<img align="left" alt="Adam-Shappy.com" width="22px" src="https://i.imgur.com/ufrMfdB.jpg" />][website] :point_left: ✌
-### [Youtube][youtube][<img align="left" alt="AS-Youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-### [LinkedIn][linkedin][<img align="left" alt="AS-LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+***[Portfolio][website][<img align="left" alt="Adam-Shappy.com" width="22px" src="https://i.imgur.com/ufrMfdB.jpg" />][website]***:point_left: ✌, ***[Youtube][youtube][<img align="left" alt="AS-Youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]***, ***[LinkedIn][linkedin][<img align="left" alt="AS-LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]***
 
 <img align="center" alt="mrshappy0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrshappy0&show_icons=true&hide_border=true" />
 
