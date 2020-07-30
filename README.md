@@ -21,6 +21,7 @@
 <a href="#"><img align="left" alt="firebase" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/firebase.svg" /></a>
 <a href="#"><img align="left" alt="heroku" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/heroku.svg" /></a>
 <a href="#"><img align="left" alt="postman" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postman.svg" /></a>
+<br />
 
 ### Check out my [Portfolio][website] :point_left: ✌
 
