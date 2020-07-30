@@ -33,7 +33,7 @@
 </tbody>
 </table> -->
 
-| [Portfolio][website] [Portfolio][website] | <img align="left" alt="AS-Youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Youtube][youtube]  | [LinkedIn][linkedin]  |
+| [Portfolio][website] [Portfolio][website] | [Youtube][youtube]  | [LinkedIn][linkedin]  |
 |---|---|---|
 
 ### [Portfolio][website][<img align="left" alt="Adam-Shappy.com" width="22px" src="https://i.imgur.com/ufrMfdB.jpg" />][website] :point_left: ✌
