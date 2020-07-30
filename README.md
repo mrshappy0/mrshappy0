@@ -4,8 +4,8 @@
 
 ### Currently I am working on the following:
 
-- 🔭 Building a web platform for Maripilot.
-- 🌱 Learning everything I can to be a coding superstar!
+- :fried_shrimp: Building a web platform for Maripilot.
+- :stars: Learning everything I can to be a coding superstar!
 - :microscope: Finding open source projects that I can contribute too!
 - :checkered_flag: 2020 Goals: Join exciting new development teams!
 - :bike: Fun fact: I love racing Mountain Bikes!
