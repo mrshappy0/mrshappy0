@@ -23,7 +23,7 @@
 <a href="#"><img align="left" alt="postman" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postman.svg" /></a>
 <br />
 
-| [Portfolio][website]  | [Youtube][youtube]  | [LinkedIn][linkedin]  |
+| [Portfolio][website] [Portfolio][website] | [Youtube][youtube]  | [LinkedIn][linkedin]  |
 |---|---|---|
 
 ### [Portfolio][website][<img align="left" alt="Adam-Shappy.com" width="22px" src="https://i.imgur.com/ufrMfdB.jpg" />][website] :point_left: ✌
