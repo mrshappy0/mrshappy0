@@ -69,11 +69,6 @@
 - [Copy of 2E4E movie 2 skip steps by15](https://www.youtube.com/watch?v=kiOBJSvFmIU)
 <!-- YOUTUBE:END -->
 
----
-
-<br />
-<br />
-
 [website]: https://Adam-Shappy.com
 [linkedin]: https://www.linkedin.com/in/adam-shappy/
 [blog]: https://medium.com/@adam_shappy
