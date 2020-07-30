@@ -1,10 +1,7 @@
 ## I'm a Developer, Climber, Mountain Biker, and all around adventurer!
 
 ### Check out my [Portfolio][website] :point_left: ✌
-
-<img align="center" alt="mrshappy0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrshappy0&show_icons=true&hide_border=true" />
-
-#### Some Languages and Tools:
+#### Languages and Tools:
 
 <a href="#"><img align="left" alt="Visual Studio Code" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/visualstudio.svg" /></a>
 <a href="#"><img align="left" alt="HTML5" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/html5.svg" /></a>
@@ -27,6 +24,9 @@
 <a href="#"><img align="left" alt="firebase" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/firebase.svg" /></a>
 <a href="#"><img align="left" alt="heroku" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/heroku.svg" /></a>
 <a href="#"><img align="left" alt="postman" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postman.svg" /></a>
+
+<img align="center" alt="mrshappy0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrshappy0&show_icons=true&hide_border=true" />
+
 
 ### Currently I am working on the following:
 
