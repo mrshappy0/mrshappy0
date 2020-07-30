@@ -45,7 +45,6 @@
 <a href="#"><img align="left" alt="firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/firebase.svg" /></a>
 <a href="#"><img align="left" alt="heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/heroku.svg" /></a>
 <a href="#"><img align="left" alt="postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postman.svg" /></a>
-<a href="#"><img align="left" alt="slack" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/slack.svg" /></a>
 
 <br />
 <br />
