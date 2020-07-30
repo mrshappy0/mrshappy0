@@ -2,7 +2,6 @@
 
 ## I'm a Developer, Climber, Mountain Biker, and all around adventurer!
 
-<img align="left" alt="mrshappy0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrshappy0&show_icons=true&hide_border=true" />
 
 ### Currently I am working on the following:
 
@@ -11,6 +10,8 @@
 - :microscope: Finding open source projects that I can contribute too!
 - :checkered_flag: 2020 Goals: Join exciting new development teams!
 - :bike: Fun fact: I love racing Mountain Bikes!
+
+<img align="left" alt="mrshappy0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrshappy0&show_icons=true&hide_border=true" />
 
 ### Let's Connect!
 
