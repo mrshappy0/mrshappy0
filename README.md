@@ -23,7 +23,7 @@
 <a href="#"><img align="left" alt="postman" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postman.svg" /></a>
 <br />
 
-**[<img alt="Adam-Shappy.com" width="22px" src="https://i.imgur.com/ufrMfdB.jpg" />][website]  [Portfolio][website]**
+### [<img alt="Adam-Shappy.com" width="25px" src="https://i.imgur.com/ufrMfdB.jpg" />][website]  [Portfolio][website]
 
 <img align="center" alt="mrshappy0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrshappy0&show_icons=true&hide_border=true" />
 
