@@ -1,45 +1,11 @@
 ## I'm a Developer, Climber, Mountain Biker, and all around adventurer!
+
 ### Check out my [Portfolio][website] :point_left: ✌
+
 <img align="center" alt="mrshappy0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrshappy0&show_icons=true&hide_border=true" />
 
-
-### Currently I am working on the following:
-- :fried_shrimp: Building a web platform for Maripilot.
-- :stars: Learning everything I can to be a coding superstar.
-- :microscope: Finding open source projects that I can contribute too.
-- :checkered_flag: 2020 Goals: Join exciting new development teams.
-- :bike: Fun fact: I love racing Mountain Bikes.
-
-
-
-<!-- ### Let's Connect!
-[<img align="left" alt="Adam-Shappy.com" width="22px" src="https://i.imgur.com/ufrMfdB.jpg" />][website]
-[<img align="left" alt="AS-Youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="AS-LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-
----
-
-### :newspaper: Active Blog Posts Feed (using Github Actions)
-<!-- BLOG-POST-LIST:START -->
-- [Add Some Magic to Your README](https://medium.com/dev-genius/add-some-magic-to-your-readme-d7f9a4d8622c?source=rss-530346ce5389------2)
-- [TGIF: Let’s Talk Lazy Loading](https://medium.com/@adam_shappy/tgif-lets-talk-lazy-loading-25e1a849590b?source=rss-530346ce5389------2)
-- [Quick Intro to Using Meta Data](https://medium.com/@adam_shappy/quick-intro-to-using-meta-data-41f1d8978597?source=rss-530346ce5389------2)
-- [Website Data Tracking with  Google Analytics](https://medium.com/dev-genius/website-data-tracking-with-google-analytics-28dbfaf60f13?source=rss-530346ce5389------2)
-- [My Path To Coding](https://medium.com/@adam_shappy/my-path-to-coding-2445509a8b02?source=rss-530346ce5389------2)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### :movie_camera: Active YouTube Videos (using Github Actions)
-<!-- YOUTUBE:START -->
-- [Trestle Bike Park Day!](https://www.youtube.com/watch?v=XY1bBARmI0U)
-- [Corona Warrior 3D Game Demo](https://www.youtube.com/watch?v=rYumSLOp55c)
-- [Quarantine Chat App Demo](https://www.youtube.com/watch?v=0QfXG_H0P2o)
-- [Front Range Enduro Trainer Video Demo](https://www.youtube.com/watch?v=zBAbWel-8cw)
-- [Copy of 2E4E movie 2 skip steps by15](https://www.youtube.com/watch?v=kiOBJSvFmIU)
-<!-- YOUTUBE:END -->
-
 #### Some Languages and Tools:
+
 <a href="#"><img align="left" alt="Visual Studio Code" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/visualstudio.svg" /></a>
 <a href="#"><img align="left" alt="HTML5" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/html5.svg" /></a>
 <a href="#"><img align="left" alt="CSS3" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/css3.svg" /></a>
@@ -61,6 +27,45 @@
 <a href="#"><img align="left" alt="firebase" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/firebase.svg" /></a>
 <a href="#"><img align="left" alt="heroku" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/heroku.svg" /></a>
 <a href="#"><img align="left" alt="postman" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postman.svg" /></a>
+
+### Currently I am working on the following:
+
+- :fried_shrimp: Building a web platform for Maripilot.
+- :stars: Learning everything I can to be a coding superstar.
+- :microscope: Finding open source projects that I can contribute too.
+- :checkered_flag: 2020 Goals: Join exciting new development teams.
+- :bike: Fun fact: I love racing Mountain Bikes.
+
+<!-- ### Let's Connect!
+[<img align="left" alt="Adam-Shappy.com" width="22px" src="https://i.imgur.com/ufrMfdB.jpg" />][website]
+[<img align="left" alt="AS-Youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="AS-LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+
+---
+
+### :newspaper: Active Blog Posts Feed (using Github Actions)
+
+<!-- BLOG-POST-LIST:START -->
+
+- [Add Some Magic to Your README](https://medium.com/dev-genius/add-some-magic-to-your-readme-d7f9a4d8622c?source=rss-530346ce5389------2)
+- [TGIF: Let’s Talk Lazy Loading](https://medium.com/@adam_shappy/tgif-lets-talk-lazy-loading-25e1a849590b?source=rss-530346ce5389------2)
+- [Quick Intro to Using Meta Data](https://medium.com/@adam_shappy/quick-intro-to-using-meta-data-41f1d8978597?source=rss-530346ce5389------2)
+- [Website Data Tracking with Google Analytics](https://medium.com/dev-genius/website-data-tracking-with-google-analytics-28dbfaf60f13?source=rss-530346ce5389------2)
+- [My Path To Coding](https://medium.com/@adam_shappy/my-path-to-coding-2445509a8b02?source=rss-530346ce5389------2)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### :movie_camera: Active YouTube Videos (using Github Actions)
+
+<!-- YOUTUBE:START -->
+
+- [Trestle Bike Park Day!](https://www.youtube.com/watch?v=XY1bBARmI0U)
+- [Corona Warrior 3D Game Demo](https://www.youtube.com/watch?v=rYumSLOp55c)
+- [Quarantine Chat App Demo](https://www.youtube.com/watch?v=0QfXG_H0P2o)
+- [Front Range Enduro Trainer Video Demo](https://www.youtube.com/watch?v=zBAbWel-8cw)
+- [Copy of 2E4E movie 2 skip steps by15](https://www.youtube.com/watch?v=kiOBJSvFmIU)
+<!-- YOUTUBE:END -->
 
 <br />
 
