@@ -23,6 +23,16 @@
 <a href="#"><img align="left" alt="postman" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postman.svg" /></a>
 <br />
 
+<table>
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
 | [Portfolio][website] [Portfolio][website] | [<img align="left" alt="AS-LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Youtube][youtube]  | [LinkedIn][linkedin]  |
 |---|---|---|
 
