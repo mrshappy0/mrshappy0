@@ -28,7 +28,7 @@
 <a href="#"><img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/javascript.svg" /></a>
 <a href="#"><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/react.svg" /></a>
 <a href="#"><img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/node-dot-js.svg" /></a>
-<a href="#"><img align="left" alt="Node.js" width="26px" src="<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postgresql.svg" /></a>
+<a href="#"><img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postgresql.svg" /></a>
 <a href="#"><img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mysql.svg" /></a>
 <a href="#"><img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mongodb.svg" /></a>
 <a href="#"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg" /></a>
