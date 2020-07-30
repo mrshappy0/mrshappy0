@@ -6,16 +6,15 @@
 ### Currently I am working on the following:
 
 - :fried_shrimp: Building a web platform for Maripilot.
-- :stars: Learning everything I can to be a coding superstar!
-- :microscope: Finding open source projects that I can contribute too!
-- :checkered_flag: 2020 Goals: Join exciting new development teams!
-- :bike: Fun fact: I love racing Mountain Bikes!
+- :stars: Learning everything I can to be a coding superstar.
+- :microscope: Finding open source projects that I can contribute too.
+- :checkered_flag: 2020 Goals: Join exciting new development teams.
+- :bike: Fun fact: I love racing Mountain Bikes.
 
 <br />
 
 <img align="center" alt="mrshappy0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrshappy0&show_icons=true&hide_border=true" />
 
-<br />
 
 ### Let's Connect!
 
