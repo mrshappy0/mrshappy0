@@ -4,6 +4,7 @@
 
 <br />
 <br />
+
 [website]: https://Adam-Shappy.com
 [linkedin]: https://www.linkedin.com/in/adam-shappy/
 [blog]: https://medium.com/@adam_shappy
