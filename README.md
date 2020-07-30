@@ -1,11 +1,10 @@
 ### Hi! I'm Adam Shappy. Check out my [Portfolio][website]! :point_left: ✌
 
 ## I'm a Developer, Climber, Mountain Biker, and all around adventurer!
-<img align="right" alt="mrshappy0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrshappy0&show_icons=true&hide_border=true" />
+<img align="left" alt="mrshappy0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrshappy0&show_icons=true&hide_border=true" />
 
 
 ### Currently I am working on the following:
-
 - :fried_shrimp: Building a web platform for Maripilot.
 - :stars: Learning everything I can to be a coding superstar.
 - :microscope: Finding open source projects that I can contribute too.
