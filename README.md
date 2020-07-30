@@ -1,4 +1,4 @@
-### Hi! I'm Adam Shappy. Check out my Portfolio at [website] :point_left:
+### Hi! I'm Adam Shappy. Check out my [Portfolio][website] :point_left:
 
 
 
