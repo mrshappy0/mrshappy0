@@ -50,6 +50,11 @@
 
 ### :newspaper: Active Blog Posts Feed
 <!-- BLOG-POST-LIST:START -->
+- [Add Some Magic to Your README](https://medium.com/dev-genius/add-some-magic-to-your-readme-d7f9a4d8622c?source=rss-530346ce5389------2)
+- [TGIF: Let’s Talk Lazy Loading](https://medium.com/@adam_shappy/tgif-lets-talk-lazy-loading-25e1a849590b?source=rss-530346ce5389------2)
+- [Quick Intro to Using Meta Data](https://medium.com/@adam_shappy/quick-intro-to-using-meta-data-41f1d8978597?source=rss-530346ce5389------2)
+- [Website Data Tracking with  Google Analytics](https://medium.com/dev-genius/website-data-tracking-with-google-analytics-28dbfaf60f13?source=rss-530346ce5389------2)
+- [My Path To Coding](https://medium.com/@adam_shappy/my-path-to-coding-2445509a8b02?source=rss-530346ce5389------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
