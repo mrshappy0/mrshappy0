@@ -52,11 +52,11 @@
 ### :movie_camera: Active YouTube Videos (using Github Actions)
 
 <!-- YOUTUBE:START -->
+- [Getting Wrecked at 2018 Sugarbush Enduro](https://www.youtube.com/watch?v=GedpLsKg9u0)
 - [Trestle Bike Park Day!](https://www.youtube.com/watch?v=XY1bBARmI0U)
 - [Corona Warrior 3D Game Demo](https://www.youtube.com/watch?v=rYumSLOp55c)
 - [Quarantine Chat App Demo](https://www.youtube.com/watch?v=0QfXG_H0P2o)
 - [Front Range Enduro Trainer Video Demo](https://www.youtube.com/watch?v=zBAbWel-8cw)
-- [Copy of 2E4E movie 2 skip steps by15](https://www.youtube.com/watch?v=kiOBJSvFmIU)
 <!-- YOUTUBE:END -->
 
 <br />
