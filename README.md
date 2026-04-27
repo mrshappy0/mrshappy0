@@ -25,7 +25,7 @@
 - 🍳 **[Mini Mealie](https://github.com/mrshappy0/mini-mealie)** &mdash; the most-downloaded [Mealie companion on the Chrome Web Store](https://chromewebstore.google.com/detail/mini-mealie/lchfnbjpjoeejalacnpjnafenacmdocc). One-click recipe imports from any site into your self-hosted Mealie instance.
 - 🖥️ **My Home Lab** &mdash; an Unraid server running 40+ Docker containers behind UniFi networking. The whole stack lives in [`shaplabs.org`](https://shaplabs.org/) territory.
 - ☁️ **Day job** &mdash; building .NET services and AWS infrastructure with CDK + Octopus Deploy.
-- 🚲 **Off-keyboard** &mdash; racing mountain bikes and pulling on plastic.
+- 💼 **Day job** &mdash; full-stack web developer at **Cox Automotive** for 6+ years. Shipping end-to-end features across React/TypeScript front-ends, .NET back-ends, and AWS infrastructure (CDK + Octopus Deploy).
 
 ---
 
