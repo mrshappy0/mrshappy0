@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/mrshappy0">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&center=true&vCenter=true&width=620&lines=Building+Mini+Mealie+%F0%9F%8D%B3;Running+a+40%2B+container+homelab+%F0%9F%96%A5%EF%B8%8F;Shipping+.NET+%2B+AWS+CDK+services+%E2%98%81%EF%B8%8F;Riding+singletrack+on+the+weekends+%F0%9F%9A%B5" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&center=true&vCenter=true&width=620&lines=Building+Mini+Mealie+%F0%9F%8D%B3;Running+a+40%2B+container+homelab+%F0%9F%96%A5%EF%B8%8F;Shipping+full-stack+features+at+Cox+Automotive+%F0%9F%92%BC;Riding+singletrack+on+the+weekends+%F0%9F%9A%B5" alt="Typing SVG">
   </a>
 </p>
 
@@ -22,10 +22,10 @@
 
 ### 🚀 What I'm working on
 
+- 💼 **Day job** &mdash; full-stack web developer at **Cox Automotive** for 6+ years, working across the Node and .NET ecosystems.
 - 🍳 **[Mini Mealie](https://github.com/mrshappy0/mini-mealie)** &mdash; the most-downloaded [Mealie companion on the Chrome Web Store](https://chromewebstore.google.com/detail/mini-mealie/lchfnbjpjoeejalacnpjnafenacmdocc). One-click recipe imports from any site into your self-hosted Mealie instance.
 - 🖥️ **My Home Lab** &mdash; an Unraid server running 40+ Docker containers behind UniFi networking. The whole stack lives in [`shaplabs.org`](https://shaplabs.org/) territory.
-- ☁️ **Day job** &mdash; building .NET services and AWS infrastructure with CDK + Octopus Deploy.
-- 💼 **Day job** &mdash; full-stack web developer at **Cox Automotive** for 5+ years, working across the Node and .NET ecosystems.
+- 🚲 **Off-keyboard** &mdash; pulling on plastic and riding bikes.
 
 ---
 
