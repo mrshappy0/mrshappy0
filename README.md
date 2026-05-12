@@ -84,18 +84,12 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <a href="https://github.com/mrshappy0">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mrshappy0&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight">
-      <img alt="mrshappy0's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mrshappy0&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
-    </picture>
-  </a>
-  <a href="https://github.com/mrshappy0">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshappy0&layout=compact&hide_border=true&theme=tokyonight">
-      <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshappy0&layout=compact&hide_border=true">
-    </picture>
-  </a>
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub profile summary">
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories per language">
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most committed languages">
 </p>
 
 <p align="center">
