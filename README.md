@@ -25,7 +25,7 @@
 - 💼 **Day job** &mdash; full-stack web developer at **Cox Automotive** for 6+ years, working across the Node and .NET ecosystems.
 - 🍳 **[Mini Mealie](https://github.com/mrshappy0/mini-mealie)** &mdash; the most-downloaded [Mealie companion on the Chrome Web Store](https://chromewebstore.google.com/detail/mini-mealie/lchfnbjpjoeejalacnpjnafenacmdocc). One-click recipe imports from any site into your self-hosted Mealie instance.
 - 🖥️ **My Home Lab** &mdash; an Unraid server running 40+ Docker containers behind UniFi networking. The whole stack lives in [`shaplabs.org`](https://shaplabs.org/) territory.
-- 🚲 **Off-keyboard** &mdash; pulling on plastic and riding bikes.
+- 🚲 **Off-keyboard** &mdash; pulling on rocks and riding bikes.
 
 ---
 
